@@ -1,0 +1,13 @@
+{
+	"context-menu": {
+		".tree-view .full-menu .header.list-item": [
+			{
+				"label": "Generate File Tree",
+				"command": "filetree-generator:ask"
+			},
+			{
+				"type": "separator"
+			}
+		]
+	}
+}
