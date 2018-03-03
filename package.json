@@ -1,7 +1,7 @@
 {
   "name": "filetree-generator",
   "main": "./lib/filetree-generator",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Ask through a modal for a model and a name then generates the associated template.",
   "keywords": [],
   "activationCommands": {
